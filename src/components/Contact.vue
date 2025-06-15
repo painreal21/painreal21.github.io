@@ -17,7 +17,7 @@
             <div class="icon email-icon">📧</div>
             <div>
               <p class="label">Email</p>
-              <p class="value">hello@devportfolio.com</p>
+              <p class="value">sakih69@outlook.com</p>
             </div>
           </div>
   
@@ -25,7 +25,7 @@
             <div class="icon phone-icon">📞</div>
             <div>
               <p class="label">Phone</p>
-              <p class="value">+1 (555) 123-4567</p>
+              <p class="value">+233 54 270-1272</p>
             </div>
           </div>
         </div>
@@ -43,9 +43,9 @@
           <label>
             <span>Project Budget</span>
             <select>
-              <option>$1,000 - $5,000</option>
-              <option>$5,000 - $10,000</option>
-              <option>$10,000+</option>
+              <option>$300 - $500</option>
+              <option>$500 - $1,000</option>
+              <option>$1,000 - $5,000 </option>
             </select>
           </label>
           <button type="submit">Send Message</button>
